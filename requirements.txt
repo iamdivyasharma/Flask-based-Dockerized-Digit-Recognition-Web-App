@@ -1,0 +1,15 @@
+pipwin
+jsonlib-python3
+grpcio==1.8.6
+flask 
+scipy==1.2.0
+keras==2.6.0
+regex
+pybase64
+numpy 
+h5py
+Pillow
+numpy
+tensorflow
+future
+protobuf==3.19.4 
