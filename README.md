@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Recognition Web Application using Flask and creating Docker Image
+# Handwritten Digit Recognition Web Application using Flask and creating Docker Image
 
 This project implements a web application for recognizing handwritten digits using a pre-trained model. The application is built using the Flask framework, which allows for creating web interfaces with Python.
 
